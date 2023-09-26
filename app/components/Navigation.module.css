@@ -1,0 +1,14 @@
+.header{
+    border: 1px solid #f0f0f0;
+    border-radius: 4px;
+    padding: 5px ;
+}
+
+.navigation{
+    display: flex;
+    list-style: none;
+}
+
+.navigation > li{
+    margin: 1rem;
+}
